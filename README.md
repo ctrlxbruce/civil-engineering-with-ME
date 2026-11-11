@@ -1,2 +1,2 @@
-# civil-engineering-with-AI
-how to apply AI in Civil engineering.
+# civil-engineering-with-ME
+how to apply Your knowledge in Civil engineering.
